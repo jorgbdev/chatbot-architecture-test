@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "emma.ml.chatbot.api", "emma.ml.chatbot.api\emma.ml.chatbot.api.csproj", "{A9B3691F-94C8-4093-A1B6-425A8F91C545}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B3691F-94C8-4093-A1B6-425A8F91C545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B3691F-94C8-4093-A1B6-425A8F91C545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B3691F-94C8-4093-A1B6-425A8F91C545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B3691F-94C8-4093-A1B6-425A8F91C545}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {43FDA9ED-C122-485E-8C1F-9441BB9BA291}
+	EndGlobalSection
+EndGlobal
